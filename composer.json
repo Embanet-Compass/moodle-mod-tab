@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-mod-tab",
+    "type": "moodle-mod",
+    "description": "Report Plugin",
+    "extra": {
+        "installer-name": "tab",
+        "moodle": { "package_folder_name" : "tab" }
+    }
